@@ -1,0 +1,62 @@
+[
+  {
+    "type": "body",
+    "description": "VOCÊ ESTÁ ENVELHECENDO. Você percebeu que seu cabelo está diferente e está de barba no rosto? Pense nisso",
+    "amount": 1
+  },
+  {
+    "type": "body",
+    "description": "SUA VOZ ALTEROU 2 DÉCIMOS E VOCÊ NEM PERCEBEU. Você perebeu que sua voz está mudando? Pense nisso",
+    "amount": 1
+  },
+  {
+    "type": "body",
+    "description": "MEIO GORDO, MEIO LENTO. Bora passar o tempo correndo...",
+    "amount": 1
+  },
+  {
+    "type": "body",
+    "description": "BRACINHO DE PUDIM. 5 min de burpee e 30 flexões.",
+    "amount": 1
+  },
+  {
+    "type": "body",
+    "description": "TÁ MEIO PÁLIDO! Vai tomar um sol.",
+    "amount": 1
+  },
+  {
+    "type": "body",
+    "description": "CORRENDO DE QUÊ? Refletir sobre seus medos enquanto caminho",
+    "amount": 1
+  },
+  {
+    "type": "body",
+    "description": "SETEMBRO CHOVE? Hoje tá sol ou chovendo? Refletir sobre a passagem do tempo enquanto caminha.",
+    "amount": 1
+  },
+  {
+    "type": "body",
+    "description": "CORRA! Sem pensar muito, só corra.",
+    "amount": 1
+  },
+  {
+    "type": "eye",
+    "description": "APAGÃO. Tédio será de olhos fechados.",
+    "amount": 1
+  },
+  {
+    "type": "eye",
+    "description": "SERÁ QUE AINDA TOCA RAUL? Pensar sobre seu gosto musical. Será que ele amadureceu ou tá ruim ainda?.",
+    "amount": 1
+  },
+  {
+    "type": "eye",
+    "description": "IDEIA MILIONÁRIA. Você percebeu que não se tornou o próximo Bill Gates?",
+    "amount": 1
+  },
+  {
+    "type": "body",
+    "description": "AS CRIANÇAS CRESCEM! Lembrar de todas as crianças próximas que cresceram e você nem se deu conta disso...",
+    "amount": 1
+  }
+]
