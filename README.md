@@ -5,7 +5,8 @@
 
 <br>
 <p align="center">
-<a align="center" href="https://ibb.co/h8mY30G"><img src="https://ibb.co/nk6kHjc" alt="Med it" border="0"></a> </p>
+<a align="center" href="https://ibb.co/nk6kHjc"><img src="https://i.ibb.co/nk6kHjc/Captura-de-Tela-12.png" alt="Captura-de-Tela-12" alt="Med it" border="0"></a> </p>
+
 
 ## 🧪 Tecnologias
 
