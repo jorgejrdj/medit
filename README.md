@@ -4,7 +4,8 @@
 </p>
 
 <br>
-<a align="center" href="https://ibb.co/nk6kHjc"><img src="https://i.ibb.co/HgBgWqz/Captura-de-Tela-12.png" alt="Captura-de-Tela-12" border="0"></a>
+<p align="center">
+<a align="center" href="https://ibb.co/nk6kHjc"><img src="https://i.ibb.co/HgBgWqz/Captura-de-Tela-12.png" alt="Captura-de-Tela-12" border="0"></a> </p>
 
 
 ## 🧪 Tecnologias
