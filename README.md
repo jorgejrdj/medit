@@ -1,7 +1,7 @@
-<a align="center" href="https://imgbb.com/"><img src="https://i.ibb.co/y55JK5t/favicon.png" alt="favicon" border="0" /></a>
-<h1 align="center">
-    <img alt="Med.it" title="Med.it" src="https://ibb.co/y55JK5t" />
-</h1>
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/y55JK5t/favicon.png" alt="favicon" border="0" /></a>
+<h1>Med It - Sua saúde mental também é importante</h1>
+</p>
 
 <br>
 <a align="center" href="https://ibb.co/h8mY30G"><img src="https://i.ibb.co/887Y1ky/Captura-de-Tela-11.png" alt="Captura-de-Tela-11" border="0"></a>
